@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <ctype.h>
-int sum(int, int);
-int subtraction(int, int);
-int multiply(int, int);
-double divide(int, int);
+int sum(int, int);             //declaration of function sum.
+int subtraction(int, int);     //declaration of function subtraction.
+int multiply(int, int);        //declaration of function multiply.
+double divide(int, int);       //declaration of function divide.
 int main(void) {
     int first_no = 0, second_no = 0;
     printf("Enter the first_no and second_no in Integer value : \n"
