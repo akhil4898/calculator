@@ -1,4 +1,4 @@
-# Hello this is a heading
+#Basic Calculator
+*This is basically a Simple Calculator for Addition, Subtraction, Multiply, Divide in* `main.c`
 
-## this is a sub heading
-hello this akhil 
+Then, The next program is Sum of first (N) natural number. And (N) is enter by the user in `finaltest.c`
