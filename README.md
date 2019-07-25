@@ -1,4 +1,4 @@
-#Basic Calculator
+# Basic Calculator
 
 This is basically a Simple Calculator for Addition, Subtraction, Multiply, Divide in *`main.c`*
 
