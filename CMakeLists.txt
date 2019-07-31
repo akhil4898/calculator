@@ -3,4 +3,4 @@ project(Test C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Test main.c finaltest.c cmdline.c area_of_circle.c)
+add_executable(Test main.c finaltest.c cmdline.c area_of_circle.c palindrome.c)
