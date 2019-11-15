@@ -1,4 +1,4 @@
-# Basic rograms in C
+# Basic Programs in C
 
 1. This is a basic calculator to addition, subtraction, multiplication, and division in **`main.c`**. 
 2. This is a program of sum of first (N) digit number, and (N) is entered by the user in **`finaltest.c`**. 
